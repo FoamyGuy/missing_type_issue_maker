@@ -1,0 +1,9 @@
+test on smaller number of libraries by cloning Bundle repo and removing all but a few submodules in the local copy.
+
+Then run
+
+```
+git submodule foreach "thescript.sh; true"
+# or
+git submodule foreach "python thescript.py; true"
+```

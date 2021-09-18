@@ -1,1 +1,1 @@
-cat output.txt | gh issue create --title "Missing Type Annotations" --body "`xargs`" --label "good first issue,documentation"
+gh issue create --title "Missing Type Annotations" --body "`cat output.txt`" --label "good first issue,documentation"

@@ -1,0 +1,11 @@
+copy make_issue.sh, make_issue_description.py, find_missing_type_annotations.py into the root of the repo
+
+determine if the repo has a package or single .py file
+
+run find_missing_annotations() on the package or single .py file
+
+if it finds any results:
+
+    pass the results to make_issue_description.py
+
+    run make_issue.sh
