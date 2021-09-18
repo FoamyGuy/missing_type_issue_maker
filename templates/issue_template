@@ -1,0 +1,25 @@
+There are missing type annotations for some functions in this library.
+
+The `typing` module does not exist on CircuitPython devices so the import needs to be wrapped in try/except to catch the error for missing import. There is an example of how that is done here:
+
+```python
+try:
+    from typing import List, Tuple
+except ImportError:
+    pass
+```
+
+Once imported the typing annotations for the argument type(s), and return type(s) can be added to the function signature. Here is an example of a function that has had this done already:
+
+```python
+def wrap_text_to_pixels(
+    string: str, max_width: int, font=None, indent0: str = "", indent1: str = ""
+) -> List[str]:
+```
+If you are attempting to resolve this issue and need help, reach out to us on Discord: https://adafru.it/discord in the `#help-with-circuitpython` channel.
+
+The following locations are reported by mypy to be missing type annotations:
+
+{% for found_missing_type in missing_type_annotations -%}
+- [ ] {{ found_missing_type }}
+{% endfor -%}
