@@ -12,7 +12,7 @@ def find_missing_annotations(path_to_module: str) -> List[str]:
 
         for line in output.split("\n"):
             if line.endswith("Function is missing a type annotation"):
-                _found_missing_annotations.append(line.split(": error: ")[0][3:].replace("__", "\_\_"))
+                _found_missing_annotations.append(line.split(": error: ")[0].replace("__", "\_\_"))
 
     return _found_missing_annotations
 
