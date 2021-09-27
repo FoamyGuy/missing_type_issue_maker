@@ -16,7 +16,11 @@ def wrap_text_to_pixels(
     string: str, max_width: int, font=None, indent0: str = "", indent1: str = ""
 ) -> List[str]:
 ```
-If you are attempting to resolve this issue and need help, reach out to us on Discord: https://adafru.it/discord in the `#help-with-circuitpython` channel.
+If you are new to Git or Github we have a guide about contributing to our projects here: https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github
+
+There is also a guide that covers our CI utilities and how to run them locally to ensure they will pass in Github Actions here: https://learn.adafruit.com/creating-and-sharing-a-circuitpython-library/check-your-code In particular the pages: `Sharing docs on ReadTheDocs` and `Check your code with pre-commit` contain the tools to install and commands to run locally to run the checks.
+
+If you are attempting to resolve this issue and need help, you can post a comment on this issue and tag both @foamyguy and @kattni or reach out to us on Discord: https://adafru.it/discord in the `#circuitpython-dev` channel.
 
 The following locations are reported by mypy to be missing type annotations:
 
