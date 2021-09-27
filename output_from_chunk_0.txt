@@ -1,0 +1,728 @@
+❯ git submodule foreach "python ../../../copy_type_finding_files.py;python run_on_each.py"
+Entering 'libraries/drivers/adt7410'
+adafruit_adt7410.py
+adafruit_adt7410.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_ADT7410
+
+https://github.com/adafruit/Adafruit_CircuitPython_ADT7410/issues/18
+Entering 'libraries/drivers/adxl34x'
+adafruit_adxl34x.py
+adafruit_adxl34x.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_ADXL34x
+
+https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x/issues/30
+Entering 'libraries/drivers/ahtx0'
+adafruit_ahtx0.py
+adafruit_ahtx0.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_AHTx0
+
+https://github.com/adafruit/Adafruit_CircuitPython_AHTx0/issues/9
+Entering 'libraries/drivers/am2320'
+adafruit_am2320.py
+adafruit_am2320.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_AM2320
+
+https://github.com/adafruit/Adafruit_CircuitPython_AM2320/issues/21
+Entering 'libraries/drivers/amg88xx'
+adafruit_amg88xx.py
+adafruit_amg88xx.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_AMG88xx
+
+https://github.com/adafruit/Adafruit_CircuitPython_AMG88xx/issues/32
+Entering 'libraries/drivers/apds9960'
+adafruit_apds9960
+adafruit_apds9960
+? Which should be the base repository (used for e.g. querying issues) for this directory? adafruit/Adafruit_CircuitPython_APDS9960
+
+Creating issue in adafruit/Adafruit_CircuitPython_APDS9960
+
+https://github.com/adafruit/Adafruit_CircuitPython_APDS9960/issues/31
+Entering 'libraries/drivers/as726x'
+adafruit_as726x.py
+adafruit_as726x.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_AS726x
+
+https://github.com/adafruit/Adafruit_CircuitPython_AS726x/issues/17
+Entering 'libraries/drivers/as7341'
+adafruit_as7341.py
+adafruit_as7341.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_AS7341
+
+https://github.com/adafruit/Adafruit_CircuitPython_AS7341/issues/20
+Entering 'libraries/drivers/atecc'
+adafruit_atecc
+adafruit_atecc
+
+Creating issue in adafruit/Adafruit_CircuitPython_ATECC
+
+https://github.com/adafruit/Adafruit_CircuitPython_ATECC/issues/25
+Entering 'libraries/drivers/aw9523'
+adafruit_aw9523.py
+adafruit_aw9523.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_AW9523
+
+https://github.com/adafruit/Adafruit_CircuitPython_AW9523/issues/3
+Entering 'libraries/drivers/bd3491fs'
+adafruit_bd3491fs.py
+adafruit_bd3491fs.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_BD3491FS
+
+https://github.com/adafruit/Adafruit_CircuitPython_BD3491FS/issues/8
+Entering 'libraries/drivers/bh1750'
+adafruit_bh1750.py
+adafruit_bh1750.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_BH1750
+
+https://github.com/adafruit/Adafruit_CircuitPython_BH1750/issues/3
+Entering 'libraries/drivers/bluefruitspi'
+adafruit_bluefruitspi.py
+adafruit_bluefruitspi.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_BluefruitSPI
+
+https://github.com/adafruit/Adafruit_CircuitPython_BluefruitSPI/issues/21
+Entering 'libraries/drivers/bme280'
+adafruit_bme280
+adafruit_bme280
+
+Creating issue in adafruit/Adafruit_CircuitPython_BME280
+
+https://github.com/adafruit/Adafruit_CircuitPython_BME280/issues/55
+Entering 'libraries/drivers/bme680'
+adafruit_bme680.py
+adafruit_bme680.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_BME680
+
+https://github.com/adafruit/Adafruit_CircuitPython_BME680/issues/45
+Entering 'libraries/drivers/bmp280'
+adafruit_bmp280.py
+adafruit_bmp280.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_BMP280
+
+https://github.com/adafruit/Adafruit_CircuitPython_BMP280/issues/32
+Entering 'libraries/drivers/bmp3xx'
+adafruit_bmp3xx.py
+adafruit_bmp3xx.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_BMP3XX
+
+https://github.com/adafruit/Adafruit_CircuitPython_BMP3XX/issues/18
+Entering 'libraries/drivers/bno055'
+adafruit_bno055.py
+adafruit_bno055.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_BNO055
+
+https://github.com/adafruit/Adafruit_CircuitPython_BNO055/issues/85
+Entering 'libraries/drivers/bno08x'
+adafruit_bno08x
+adafruit_bno08x
+
+Creating issue in adafruit/Adafruit_CircuitPython_BNO08x
+
+https://github.com/adafruit/Adafruit_CircuitPython_BNO08x/issues/30
+Entering 'libraries/drivers/bno08x_rvc'
+adafruit_bno08x_rvc.py
+adafruit_bno08x_rvc.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_BNO08x_RVC
+
+https://github.com/adafruit/Adafruit_CircuitPython_BNO08x_RVC/issues/4
+Entering 'libraries/drivers/cap1188'
+adafruit_cap1188
+adafruit_cap1188
+
+Creating issue in adafruit/Adafruit_CircuitPython_CAP1188
+
+https://github.com/adafruit/Adafruit_CircuitPython_CAP1188/issues/22
+Entering 'libraries/drivers/ccs811'
+adafruit_ccs811.py
+adafruit_ccs811.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_CCS811
+
+https://github.com/adafruit/Adafruit_CircuitPython_CCS811/issues/46
+Entering 'libraries/drivers/charlcd'
+adafruit_character_lcd
+adafruit_character_lcd
+
+Creating issue in adafruit/Adafruit_CircuitPython_CharLCD
+
+https://github.com/adafruit/Adafruit_CircuitPython_CharLCD/issues/66
+Entering 'libraries/drivers/circuitplayground'
+adafruit_circuitplayground
+adafruit_circuitplayground
+
+Creating issue in adafruit/Adafruit_CircuitPython_CircuitPlayground
+
+https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground/issues/110
+Entering 'libraries/drivers/clue'
+adafruit_clue.py
+adafruit_clue.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_CLUE
+
+https://github.com/adafruit/Adafruit_CircuitPython_CLUE/issues/49
+Entering 'libraries/drivers/crickit'
+adafruit_crickit.py
+adafruit_crickit.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_Crickit
+
+https://github.com/adafruit/Adafruit_CircuitPython_Crickit/issues/31
+Entering 'libraries/drivers/dht'
+adafruit_dht.py
+adafruit_dht.py
+? Which should be the base repository (used for e.g. querying issues) for this directory? adafruit/Adafruit_CircuitPython_DHT
+
+Creating issue in adafruit/Adafruit_CircuitPython_DHT
+
+https://github.com/adafruit/Adafruit_CircuitPython_DHT/issues/74
+Entering 'libraries/drivers/displayio_sh1106'
+adafruit_displayio_sh1106.py
+adafruit_displayio_sh1106.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DisplayIO_SH1106
+
+https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1106/issues/6
+Entering 'libraries/drivers/displayio_sh1107'
+adafruit_displayio_sh1107.py
+adafruit_displayio_sh1107.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DisplayIO_SH1107
+
+https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1107/issues/11
+Entering 'libraries/drivers/displayio_ssd1305'
+adafruit_displayio_ssd1305.py
+adafruit_displayio_ssd1305.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DisplayIO_SSD1305
+
+https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1305/issues/14
+Entering 'libraries/drivers/displayio_ssd1306'
+adafruit_displayio_ssd1306.py
+adafruit_displayio_ssd1306.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306
+
+https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306/issues/24
+Entering 'libraries/drivers/dotstar'
+adafruit_dotstar.py
+adafruit_dotstar.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DotStar
+
+https://github.com/adafruit/Adafruit_CircuitPython_DotStar/issues/58
+Entering 'libraries/drivers/dps310'
+adafruit_dps310.py
+adafruit_dps310.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DPS310
+
+https://github.com/adafruit/Adafruit_CircuitPython_DPS310/issues/18
+Entering 'libraries/drivers/drv2605'
+adafruit_drv2605.py
+adafruit_drv2605.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DRV2605
+
+https://github.com/adafruit/Adafruit_CircuitPython_DRV2605/issues/27
+Entering 'libraries/drivers/ds1307'
+adafruit_ds1307.py
+adafruit_ds1307.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DS1307
+
+https://github.com/adafruit/Adafruit_CircuitPython_DS1307/issues/23
+Entering 'libraries/drivers/ds1841'
+adafruit_ds1841.py
+adafruit_ds1841.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DS1841
+
+https://github.com/adafruit/Adafruit_CircuitPython_DS1841/issues/4
+Entering 'libraries/drivers/ds18x20'
+adafruit_ds18x20.py
+adafruit_ds18x20.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DS18X20
+
+https://github.com/adafruit/Adafruit_CircuitPython_DS18X20/issues/24
+Entering 'libraries/drivers/ds2413'
+adafruit_ds2413.py
+adafruit_ds2413.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DS2413
+
+https://github.com/adafruit/Adafruit_CircuitPython_DS2413/issues/23
+Entering 'libraries/drivers/ds3231'
+adafruit_ds3231.py
+adafruit_ds3231.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DS3231
+
+https://github.com/adafruit/Adafruit_CircuitPython_DS3231/issues/37
+Entering 'libraries/drivers/ds3502'
+adafruit_ds3502.py
+adafruit_ds3502.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DS3502
+
+https://github.com/adafruit/Adafruit_CircuitPython_DS3502/issues/9
+Entering 'libraries/drivers/dymoscale'
+adafruit_dymoscale.py
+adafruit_dymoscale.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_DymoScale
+
+https://github.com/adafruit/Adafruit_CircuitPython_DymoScale/issues/11
+Entering 'libraries/drivers/emc2101'
+adafruit_emc2101
+adafruit_emc2101
+
+Creating issue in adafruit/Adafruit_CircuitPython_EMC2101
+
+https://github.com/adafruit/Adafruit_CircuitPython_EMC2101/issues/18
+Entering 'libraries/drivers/epd'
+adafruit_epd
+adafruit_epd
+
+Creating issue in adafruit/Adafruit_CircuitPython_EPD
+
+https://github.com/adafruit/Adafruit_CircuitPython_EPD/issues/56
+Entering 'libraries/drivers/esp-atcontrol'
+adafruit_espatcontrol
+adafruit_espatcontrol
+
+Creating issue in adafruit/Adafruit_CircuitPython_ESP_ATcontrol
+
+https://github.com/adafruit/Adafruit_CircuitPython_ESP_ATcontrol/issues/42
+Entering 'libraries/drivers/esp32spi'
+adafruit_esp32spi
+adafruit_esp32spi
+
+Creating issue in adafruit/Adafruit_CircuitPython_ESP32SPI
+
+https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI/issues/138
+Entering 'libraries/drivers/fingerprint'
+adafruit_fingerprint.py
+adafruit_fingerprint.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_Fingerprint
+
+https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint/issues/34
+Entering 'libraries/drivers/focaltouch'
+adafruit_focaltouch.py
+adafruit_focaltouch.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_FocalTouch
+
+https://github.com/adafruit/Adafruit_CircuitPython_FocalTouch/issues/21
+Entering 'libraries/drivers/fona'
+adafruit_fona
+adafruit_fona
+
+Creating issue in adafruit/Adafruit_CircuitPython_FONA
+
+https://github.com/adafruit/Adafruit_CircuitPython_FONA/issues/14
+Entering 'libraries/drivers/fram'
+adafruit_fram.py
+adafruit_fram.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_FRAM
+
+https://github.com/adafruit/Adafruit_CircuitPython_FRAM/issues/27
+Entering 'libraries/drivers/fxas21002c'
+adafruit_fxas21002c.py
+adafruit_fxas21002c.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_FXAS21002C
+
+https://github.com/adafruit/Adafruit_CircuitPython_FXAS21002C/issues/24
+Entering 'libraries/drivers/fxos8700'
+adafruit_fxos8700.py
+adafruit_fxos8700.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_FXOS8700
+
+https://github.com/adafruit/Adafruit_CircuitPython_FXOS8700/issues/25
+Entering 'libraries/drivers/gps'
+adafruit_gps.py
+adafruit_gps.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_GPS
+
+https://github.com/adafruit/Adafruit_CircuitPython_GPS/issues/68
+Entering 'libraries/drivers/hcsr04'
+adafruit_hcsr04.py
+adafruit_hcsr04.py
+? Which should be the base repository (used for e.g. querying issues) for this directory? adafruit/Adafruit_CircuitPython_HCSR04
+
+Creating issue in adafruit/Adafruit_CircuitPython_HCSR04
+
+https://github.com/adafruit/Adafruit_CircuitPython_HCSR04/issues/27
+Entering 'libraries/drivers/ht16k33'
+adafruit_ht16k33
+adafruit_ht16k33
+
+Creating issue in adafruit/Adafruit_CircuitPython_HT16K33
+
+https://github.com/adafruit/Adafruit_CircuitPython_HT16K33/issues/91
+Entering 'libraries/drivers/hts221'
+adafruit_hts221.py
+adafruit_hts221.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_HTS221
+
+https://github.com/adafruit/Adafruit_CircuitPython_HTS221/issues/9
+Entering 'libraries/drivers/htu21d'
+adafruit_htu21d.py
+adafruit_htu21d.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_HTU21D
+
+https://github.com/adafruit/Adafruit_CircuitPython_HTU21D/issues/17
+Entering 'libraries/drivers/htu31d'
+adafruit_htu31d.py
+adafruit_htu31d.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_HTU31D
+
+https://github.com/adafruit/Adafruit_CircuitPython_HTU31D/issues/7
+Entering 'libraries/drivers/hx8357'
+adafruit_hx8357.py
+adafruit_hx8357.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_HX8357
+
+https://github.com/adafruit/Adafruit_CircuitPython_HX8357/issues/16
+Entering 'libraries/drivers/icm20x'
+adafruit_icm20x.py
+adafruit_icm20x.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_ICM20X
+
+https://github.com/adafruit/Adafruit_CircuitPython_ICM20X/issues/13
+Entering 'libraries/drivers/il0373'
+adafruit_il0373.py
+adafruit_il0373.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_IL0373
+
+https://github.com/adafruit/Adafruit_CircuitPython_IL0373/issues/23
+Entering 'libraries/drivers/il0398'
+adafruit_il0398.py
+adafruit_il0398.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_IL0398
+
+https://github.com/adafruit/Adafruit_CircuitPython_IL0398/issues/12
+Entering 'libraries/drivers/il91874'
+adafruit_il91874.py
+adafruit_il91874.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_IL91874
+
+https://github.com/adafruit/Adafruit_CircuitPython_IL91874/issues/13
+Entering 'libraries/drivers/ili9341'
+adafruit_ili9341.py
+adafruit_ili9341.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_ILI9341
+
+https://github.com/adafruit/Adafruit_CircuitPython_ILI9341/issues/28
+Entering 'libraries/drivers/ina219'
+adafruit_ina219.py
+adafruit_ina219.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_INA219
+
+https://github.com/adafruit/Adafruit_CircuitPython_INA219/issues/29
+Entering 'libraries/drivers/ina260'
+adafruit_ina260.py
+adafruit_ina260.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_INA260
+
+https://github.com/adafruit/Adafruit_CircuitPython_INA260/issues/18
+Entering 'libraries/drivers/irremote'
+adafruit_irremote.py
+adafruit_irremote.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_IRRemote
+
+https://github.com/adafruit/Adafruit_CircuitPython_IRRemote/issues/50
+Entering 'libraries/drivers/is31fl3731'
+adafruit_is31fl3731
+adafruit_is31fl3731
+
+Creating issue in adafruit/Adafruit_CircuitPython_IS31FL3731
+
+https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3731/issues/46
+Entering 'libraries/drivers/is31fl3741'
+adafruit_is31fl3741
+adafruit_is31fl3741
+
+Creating issue in adafruit/Adafruit_CircuitPython_IS31FL3741
+
+https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3741/issues/7
+Entering 'libraries/drivers/l3gd20'
+adafruit_l3gd20.py
+adafruit_l3gd20.py
+? Which should be the base repository (used for e.g. querying issues) for this directory? adafruit/Adafruit_CircuitPython_L3GD20
+
+Creating issue in adafruit/Adafruit_CircuitPython_L3GD20
+
+https://github.com/adafruit/Adafruit_CircuitPython_L3GD20/issues/24
+Entering 'libraries/drivers/lc709203f'
+adafruit_lc709203f.py
+adafruit_lc709203f.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LC709203F
+
+https://github.com/adafruit/Adafruit_CircuitPython_LC709203F/issues/15
+Entering 'libraries/drivers/lidarlite'
+adafruit_lidarlite.py
+adafruit_lidarlite.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LIDARLite
+
+https://github.com/adafruit/Adafruit_CircuitPython_LIDARLite/issues/15
+Entering 'libraries/drivers/lis2mdl'
+adafruit_lis2mdl.py
+adafruit_lis2mdl.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LIS2MDL
+
+https://github.com/adafruit/Adafruit_CircuitPython_LIS2MDL/issues/14
+Entering 'libraries/drivers/lis331'
+adafruit_lis331.py
+adafruit_lis331.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LIS331
+
+https://github.com/adafruit/Adafruit_CircuitPython_LIS331/issues/4
+Entering 'libraries/drivers/lis3dh'
+adafruit_lis3dh.py
+adafruit_lis3dh.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LIS3DH
+
+https://github.com/adafruit/Adafruit_CircuitPython_LIS3DH/issues/69
+Entering 'libraries/drivers/lis3mdl'
+adafruit_lis3mdl.py
+adafruit_lis3mdl.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LIS3MDL
+
+https://github.com/adafruit/Adafruit_CircuitPython_LIS3MDL/issues/17
+Entering 'libraries/drivers/lps2x'
+adafruit_lps2x.py
+adafruit_lps2x.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LPS2X
+
+https://github.com/adafruit/Adafruit_CircuitPython_LPS2X/issues/8
+Entering 'libraries/drivers/lps35hw'
+adafruit_lps35hw.py
+adafruit_lps35hw.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LPS35HW
+
+https://github.com/adafruit/Adafruit_CircuitPython_LPS35HW/issues/10
+Entering 'libraries/drivers/lsm303'
+adafruit_lsm303.py
+adafruit_lsm303.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LSM303
+
+could not add label: 'documentation' not found
+Entering 'libraries/drivers/lsm303-accel'
+adafruit_lsm303_accel.py
+adafruit_lsm303_accel.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LSM303_Accel
+
+https://github.com/adafruit/Adafruit_CircuitPython_LSM303_Accel/issues/12
+Entering 'libraries/drivers/lsm303dlh-mag'
+adafruit_lsm303dlh_mag.py
+adafruit_lsm303dlh_mag.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LSM303DLH_Mag
+
+https://github.com/adafruit/Adafruit_CircuitPython_LSM303DLH_Mag/issues/15
+Entering 'libraries/drivers/lsm6ds'
+adafruit_lsm6ds
+adafruit_lsm6ds
+
+Creating issue in adafruit/Adafruit_CircuitPython_LSM6DS
+
+https://github.com/adafruit/Adafruit_CircuitPython_LSM6DS/issues/44
+Entering 'libraries/drivers/lsm9ds0'
+adafruit_lsm9ds0.py
+adafruit_lsm9ds0.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LSM9DS0
+
+https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0/issues/22
+Entering 'libraries/drivers/lsm9ds1'
+adafruit_lsm9ds1.py
+adafruit_lsm9ds1.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LSM9DS1
+
+https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1/issues/31
+Entering 'libraries/drivers/ltr390'
+adafruit_ltr390.py
+adafruit_ltr390.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_LTR390
+
+https://github.com/adafruit/Adafruit_CircuitPython_LTR390/issues/8
+Entering 'libraries/drivers/matrixkeypad'
+adafruit_matrixkeypad.py
+adafruit_matrixkeypad.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MatrixKeypad
+
+https://github.com/adafruit/Adafruit_CircuitPython_MatrixKeypad/issues/13
+Entering 'libraries/drivers/max31855'
+adafruit_max31855.py
+adafruit_max31855.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MAX31855
+
+https://github.com/adafruit/Adafruit_CircuitPython_MAX31855/issues/25
+Entering 'libraries/drivers/max31856'
+adafruit_max31856.py
+adafruit_max31856.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MAX31856
+
+https://github.com/adafruit/Adafruit_CircuitPython_MAX31856/issues/15
+Entering 'libraries/drivers/max31865'
+adafruit_max31865.py
+adafruit_max31865.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MAX31865
+
+https://github.com/adafruit/Adafruit_CircuitPython_MAX31865/issues/34
+Entering 'libraries/drivers/max7219'
+adafruit_max7219
+adafruit_max7219
+
+Creating issue in adafruit/Adafruit_CircuitPython_MAX7219
+
+https://github.com/adafruit/Adafruit_CircuitPython_MAX7219/issues/34
+Entering 'libraries/drivers/max9744'
+adafruit_max9744.py
+adafruit_max9744.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MAX9744
+
+https://github.com/adafruit/Adafruit_CircuitPython_MAX9744/issues/15
+Entering 'libraries/drivers/mcp230xx'
+adafruit_mcp230xx
+adafruit_mcp230xx
+
+Creating issue in adafruit/Adafruit_CircuitPython_MCP230xx
+
+https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx/issues/44
+Entering 'libraries/drivers/mcp2515'
+adafruit_mcp2515
+adafruit_mcp2515
+
+Creating issue in adafruit/Adafruit_CircuitPython_MCP2515
+
+https://github.com/adafruit/Adafruit_CircuitPython_MCP2515/issues/11
+Entering 'libraries/drivers/mcp3xxx'
+adafruit_mcp3xxx
+adafruit_mcp3xxx
+
+Creating issue in adafruit/Adafruit_CircuitPython_MCP3xxx
+
+https://github.com/adafruit/Adafruit_CircuitPython_MCP3xxx/issues/35
+Entering 'libraries/drivers/mcp4725'
+adafruit_mcp4725.py
+adafruit_mcp4725.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MCP4725
+
+https://github.com/adafruit/Adafruit_CircuitPython_MCP4725/issues/21
+Entering 'libraries/drivers/mcp4728'
+adafruit_mcp4728.py
+adafruit_mcp4728.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MCP4728
+
+https://github.com/adafruit/Adafruit_CircuitPython_MCP4728/issues/11
+Entering 'libraries/drivers/mcp9600'
+adafruit_mcp9600.py
+adafruit_mcp9600.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MCP9600
+
+https://github.com/adafruit/Adafruit_CircuitPython_MCP9600/issues/17
+Entering 'libraries/drivers/mcp9808'
+adafruit_mcp9808.py
+adafruit_mcp9808.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MCP9808
+
+GraphQL error: was submitted too quickly
+Entering 'libraries/drivers/mlx90393'
+adafruit_mlx90393.py
+adafruit_mlx90393.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MLX90393
+
+GraphQL error: was submitted too quickly
+Entering 'libraries/drivers/mlx90395'
+adafruit_mlx90395.py
+adafruit_mlx90395.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MLX90395
+
+GraphQL error: was submitted too quickly
+Entering 'libraries/drivers/mlx90614'
+adafruit_mlx90614.py
+adafruit_mlx90614.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MLX90614
+
+GraphQL error: was submitted too quickly
+Entering 'libraries/drivers/mlx90640'
+adafruit_mlx90640.py
+adafruit_mlx90640.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MLX90640
+
+GraphQL error: was submitted too quickly
+Entering 'libraries/drivers/mma8451'
+adafruit_mma8451.py
+adafruit_mma8451.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MMA8451
+
+GraphQL error: was submitted too quickly
+Entering 'libraries/drivers/monsterm4sk'
+adafruit_monsterm4sk.py
+adafruit_monsterm4sk.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_MONSTERM4SK
+
+^C
+^C
+

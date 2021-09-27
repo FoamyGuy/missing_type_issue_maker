@@ -1,0 +1,94 @@
+❯ git submodule foreach "python ../../../copy_type_finding_files.py;python run_on_each.py"
+Entering 'libraries/helpers/rgbled'
+adafruit_rgbled.py
+adafruit_rgbled.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_RGBLED
+
+https://github.com/adafruit/Adafruit_CircuitPython_RGBLED/issues/17
+Entering 'libraries/helpers/rsa'
+adafruit_rsa
+adafruit_rsa
+
+Creating issue in adafruit/Adafruit_CircuitPython_RSA
+
+https://github.com/adafruit/Adafruit_CircuitPython_RSA/issues/19
+Entering 'libraries/helpers/rtttl'
+adafruit_rtttl.py
+adafruit_rtttl.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_RTTTL
+
+https://github.com/adafruit/Adafruit_CircuitPython_RTTTL/issues/24
+Entering 'libraries/helpers/servokit'
+adafruit_servokit.py
+adafruit_servokit.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_ServoKit
+
+https://github.com/adafruit/Adafruit_CircuitPython_ServoKit/issues/32
+Entering 'libraries/helpers/simple-text-display'
+adafruit_simple_text_display.py
+adafruit_simple_text_display.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_Simple_Text_Display
+
+https://github.com/adafruit/Adafruit_CircuitPython_Simple_Text_Display/issues/7
+Entering 'libraries/helpers/simpleio'
+simpleio.py
+simpleio.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_SimpleIO
+
+https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO/issues/64
+Entering 'libraries/helpers/simplemath'
+adafruit_simplemath.py
+adafruit_simplemath.py
+No missing types found
+cat: missing_types_issue.txt: No such file or directory
+
+Creating issue in adafruit/Adafruit_CircuitPython_SimpleMath
+
+https://github.com/adafruit/Adafruit_CircuitPython_SimpleMath/issues/4
+Entering 'libraries/helpers/slideshow'
+adafruit_slideshow.py
+adafruit_slideshow.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_Slideshow
+
+https://github.com/adafruit/Adafruit_CircuitPython_Slideshow/issues/38
+Entering 'libraries/helpers/ticks'
+adafruit_ticks.py
+adafruit_ticks.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_Ticks
+
+GraphQL error: You don't have permission to add labels in this repository.
+Entering 'libraries/helpers/tinylora'
+adafruit_tinylora
+adafruit_tinylora
+
+Creating issue in adafruit/Adafruit_CircuitPython_TinyLoRa
+
+https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa/issues/45
+Entering 'libraries/helpers/turtle'
+adafruit_turtle.py
+adafruit_turtle.py
+
+Creating issue in adafruit/Adafruit_CircuitPython_turtle
+
+https://github.com/adafruit/Adafruit_CircuitPython_turtle/issues/27
+Entering 'libraries/helpers/waveform'
+adafruit_waveform
+adafruit_waveform
+
+Creating issue in adafruit/Adafruit_CircuitPython_Waveform
+
+https://github.com/adafruit/Adafruit_CircuitPython_Waveform/issues/21
+Entering 'libraries/helpers/wsgi'
+adafruit_wsgi
+adafruit_wsgi
+
+Creating issue in adafruit/Adafruit_CircuitPython_WSGI
+
+https://github.com/adafruit/Adafruit_CircuitPython_WSGI/issues/9

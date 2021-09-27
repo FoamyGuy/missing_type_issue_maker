@@ -1,0 +1,9 @@
+permissions:
+Adafruit_CircuitPython_Ducky
+Adafruit_CircuitPython_PCF8563
+Adafruit_CircuitPython_Pixelbuf
+
+description render issue:
+Adafruit_CircuitPython_SimpleMath
+Adafruit_CircuitPython_ProgressBar
+Adafruit_CircuitPython_IterTools
