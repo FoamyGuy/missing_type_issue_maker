@@ -1,6 +1,7 @@
 import os
 from find_missing_type_annotations import find_missing_annotations
 from make_issue_description import make_issue_description
+import time
 
 KNOWN_PY_FILES = ["setup.py",
                   "find_missing_type_annotations.py",
@@ -50,3 +51,5 @@ if len(missing_types) > 0:
 
 #os.system("ls ./")
 
+# os.system("./make_issue.sh")
+time.sleep(5)
